@@ -51,10 +51,11 @@ Final-year B.Tech Information Technology student with hands-on experience in dat
 - Delivered insights for peak-hour and operational optimization  
 
 ### 🤖 Customer Churn Prediction (Machine Learning Project)  
-- Built classification model using Python & scikit-learn  
-- Performed feature engineering & preprocessing  
-- Identified key churn drivers  
-- Visualized business insights using Power BI  
+- Built churn prediction model on 5K+ records using Python, Scikit-learn, and Azure SQL.  
+- Achieved ~85% accuracy with feature engineering and classification modeling. 
+- Automated ETL pipeline, reducing reporting effort by 40%.  
+- Developed Power BI dashboard with 10+ KPIs for churn analysis.
+- Improved dashboard performance by 30% using Azure SQL integration.
 
 ---
 

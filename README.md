@@ -51,7 +51,7 @@ Final-year B.Tech Information Technology student with hands-on experience in dat
 - Improved data consistency by 25% through cleaning & transformation  
 - Delivered insights for peak-hour and operational optimization  
 
-### 🤖 Customer Churn Prediction (Machine Learning Project)  
+### 🤖 Telecom Customer Churn Prediction & Analytics Model
 - Built churn prediction model on 5K+ records using Python, Scikit-learn, and Azure SQL.  
 - Achieved ~85% accuracy with feature engineering and classification modeling. 
 - Automated ETL pipeline, reducing reporting effort by 40%.  
